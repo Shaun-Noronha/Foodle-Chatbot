@@ -31,8 +31,8 @@ O-zone is an IoT-based project designed to monitor the Air Quality Index (AQI) l
 * Monitor the AQI levels and take necessary precautions based on the air quality data.
 
 ## Team Members
-* Melita Lewis
+* Shaun Noronha
 * Sushree Nadiminty
 * Angelica Sebastian
-* Shaun Noronha
+* Melita Lewis
 
